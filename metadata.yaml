@@ -1,0 +1,32 @@
+_repo: Fictitious--amp--Symbolic-Creatures-in-ArtWith-Special-Reference-to-Their-Use-in-British-Hera__40825
+_version: 0.1.0
+alternative_title: "Fictitious and Symbolic Creatures in Art\r\nWith Special Reference\
+  \ to Their Use in British Heraldry"
+covers:
+- cover_type: archival
+  image_path: 40825-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vinycomb, John
+    gutenberg_agent_id: '40836'
+    url: http://www.gutenberg.org/2009/agents/40836
+description: ''
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40825'
+  lccn: 07008244
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heraldry -- Great Britain'
+- !lcc 'CR'
+- !lcc 'N'
+- !lcsh 'Symbolism'
+- !lcsh 'Animals, Mythical'
+title: 'Fictitious & Symbolic Creatures in Art
+
+  With Special Reference to Their Use in British Heraldry'
+url: http://www.gutenberg.org/ebooks/40825
